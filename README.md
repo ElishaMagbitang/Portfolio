@@ -19,9 +19,6 @@ Hi! I’m **Elisha Jhoyce Magbitang**, I am proficient in **UI/UX design and fro
 - **Figma / Canva** (for design mockups)
 - Any other tools you used
 
-## 🚀 Live Demo
-👉 [GitHub Pages Link](https://elishamagbitang.github.io/Portfolio/) 
-
 ## 📫 Contact Me
 - **Email:** magbitangelishajhoyce@gmail.com  
 - **LinkedIn:** [linkedin.com/in/elisha-jhoyce-magbitang-984613243](https://www.linkedin.com/in/elisha-jhoyce-magbitang-984613243)  
