@@ -17,7 +17,6 @@ Hi! I’m **Elisha Jhoyce Magbitang**, I am proficient in **UI/UX design and fro
 - **HTML5 / CSS3**
 - **JavaScript** (if applicable)
 - **Figma / Canva** (for design mockups)
-- Any other tools you used
 
 ## 📫 Contact Me
 - **Email:** magbitangelishajhoyce@gmail.com  
