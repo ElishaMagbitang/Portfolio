@@ -4,7 +4,7 @@ Welcome to my personal portfolio!
 This project is all about me — showcasing my journey, skills, and projects as a Computer Science undergraduate.  
 
 ## 🌟 About Me
-Hi! I’m **Elisha Jhoyce Magbitang**, a Computer Science student passionate about **UI/UX design, frontend development, and creating user-centered digital solutions**. I enjoy turning ideas into functional designs and building systems that solve real-world problems.  
+Hi! I’m **Elisha Jhoyce Magbitang**, I am proficient in **UI/UX design and frontend development, skilled in tools like Figma, Canva, HTML/CSS, and Laravel**. I have experience building **web systems, health apps, and automation workflows with n8n, supported by knowledge of C, Java, Python, and C#**. I also bring **strong communication, adaptability, and teamwork skills from leadership and customer service experiences**.
 
 ## 📂 What’s Inside
 - **Home Page** – A quick introduction about me  
